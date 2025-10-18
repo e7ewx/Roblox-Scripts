@@ -13,6 +13,6 @@ TeleFilter can be toggled on/off by clicking the UI at the top of the screen or 
 TeleFilter logs all blocked teleports and passed teleports.
 
 Heres the loadstring version:
-loadstring("https://raw.githubusercontent.com/e7ewx/Roblox-Scripts/refs/heads/main/TeleFilter.lua")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/e7ewx/Roblox-Scripts/refs/heads/main/TeleFilter.lua"))()
 
 ]]
